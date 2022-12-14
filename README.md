@@ -29,7 +29,7 @@
 
 ## 🔖 Sobre
 
-O LocalizaP2W é um aplicativo voltado para empresas e clientes com a temática da copa do mundo desenvolvido durante a disciplina de Engenharia de Software 2. No aplicativo, as empresas se cadastram e podem disponibilizar sua localização acompanhadas de eventos cadastrados sobre os jogos que serão transmitidos no local e os respectivo horários. Os usuários clientes não precisam de cadastro e poderão buscar e encontrar os melhores locais para assistir os jogos da copa próximos as suas localidades.
+O LocalizaP2W é um aplicativo voltado para empresas e clientes com a temática da copa do mundo desenvolvido durante a disciplina de Engenharia de Software 2. No aplicativo, as empresas se cadastram e podem disponibilizar sua localização acompanhadas de eventos cadastrados sobre os jogos que serão transmitidos no local e os respectivos horários. Os usuários clientes não precisam de cadastro e poderão buscar e encontrar os melhores locais para assistir os jogos da copa próximos as suas localidades.
 
 ---
 
