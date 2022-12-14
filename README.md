@@ -5,7 +5,7 @@
 <br />
 
 <div align="center">
-  <a href="#" target="_blank" style="
+  <a href="https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40danilow22/LocalizaP2W-93786ad757364b728d2022fb47791f4c-signed.apk" target="_blank" style="
     padding: 16px;background-color: #DDD;
     text-decoration: none; width: 170px; border-radius: 8px;
     color: #000;display: flex;align-items: center;justify-content: center;"
@@ -29,7 +29,7 @@
 
 ## 🔖 Sobre
 
-O **Memorizando** é um jogo da memória com a temática da copa do mundo desenvolvido durante a disciplina de Engenharia de Software 2.
+O LocalizaP2W é um aplicativo voltado para empresas e clientes com a temática da copa do mundo desenvolvido durante a disciplina de Engenharia de Software 2. No aplicativo, as empresas se cadastram e podem disponibilizar sua localização acompanhadas de eventos cadastrados sobre os jogos que serão transmitidos no local e os respectivo horários. Os usuários clientes não precisam de cadastro e poderão buscar e encontrar os melhores locais para assistir os jogos da copa próximos as suas localidades.
 
 ---
 
