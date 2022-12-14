@@ -121,5 +121,5 @@ Testes:
 <br />
 
 Arquitetura:
-| [<img src="https://avatars.githubusercontent.com/u/86026482?v=4" width=115><br><sub>Danilo Correia</sub>](https://github.com/EduardoProto) |
+| [<img src="https://avatars.githubusercontent.com/u/86026482?v=4" width=115><br><sub>Eduardo Proto</sub>](https://github.com/EduardoProto) |
 | :---: |
