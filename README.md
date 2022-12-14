@@ -89,7 +89,7 @@ Para clonar e executar esta aplicação na sua máquina é necessário ter insta
   $ expo start ou expo start --tunnel
 
   # Com o aplicativo Expo Go escanear o Qrcode
-  ![<img src="[https://avatars.githubusercontent.com/u/22628390?v=4](https://asset.cloudinary.com/dy3kmjkfh/3f4675912111043fcdf6ad081403a7b9)" width=115>]
+  ![<img src="https://avatars.githubusercontent.com/u/22628390?v=4](https://asset.cloudinary.com/dy3kmjkfh/3f4675912111043fcdf6ad081403a7b9)" width=115>]
 
 ```
 
