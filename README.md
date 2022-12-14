@@ -115,8 +115,8 @@ Desenvolvimento Front-end:
 <br />
 
 Testes:
-| [<img src="https://avatars.githubusercontent.com/u/104629874?v=4" width=115><br><sub>Adriano Gutemberg</sub>](https://github.com/AdrianoGutemberg) |  [<img src="https://avatars.githubusercontent.com/u/58365600?v=4" width=115><br><sub>Pedro Emanuel</sub>](https://github.com/PedroEmanuelLima) | 
-| :---: | :---: |
+| [<img src="https://avatars.githubusercontent.com/u/104629874?v=4" width=115><br><sub>Adriano Gutemberg</sub>](https://github.com/AdrianoGutemberg) |
+| :---: |
 
 <br />
 
