@@ -13,7 +13,7 @@
     onMouseOut="this.style.color='#000'"
   >
     <img alt="Dowload in Expo" src="https://raw.githubusercontent.com/expo/styleguide/main/common/logos/logo.svg">
-    <span style="margin-left: 8px;">Dowload in Expo</span>
+    <span style="margin-left: 8px;">Dowload APK in Expo</span>
   </a>
 </div>
 
