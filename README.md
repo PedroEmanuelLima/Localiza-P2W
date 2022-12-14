@@ -97,7 +97,7 @@ EQUIPE:
 <br />
 
 Gestão e Analise:
-| [<img src="https://avatars.githubusercontent.com/u/77240813?v=4" width=115><br><sub>Natan Matos</sub>](https://github.com/Natan0409) |
+| [<img src="https://avatars.githubusercontent.com/u/77240813?v=4" width=115><br><sub>Natanael Matos</sub>](https://github.com/Natan0409) |
 | :---: |
 
 <br />
