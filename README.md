@@ -80,8 +80,7 @@ Para clonar e executar esta aplicação na sua máquina é necessário ter insta
   $ git clone https://github.com/PedroEmanuelLima/Localiza-P2W.git
 
   # Entrar no diretório
-  $ cd Localiza-P2W
-  $ cd Expo-App
+  $ cd Localiza-P2W/App
 
   # Instalar as dependências
   $ npm install ou yarn install
