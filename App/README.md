@@ -1,2 +1,1 @@
-# Engenharia de Software 2
-Equipe: Calangos da Informação
+# Engenharia de Software 2 Calangos da Informação
