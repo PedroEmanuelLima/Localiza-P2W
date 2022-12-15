@@ -5,7 +5,7 @@
 <br />
 
 <div align="center">
-  <a href="https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40danilow22/LocalizaP2W-93786ad757364b728d2022fb47791f4c-signed.apk" target="_blank" style="
+  <a href="https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40danilow22/LocalizaP2W-98057479334f43aca6333b3ad8fd3cdb-signed.apk" target="_blank" style="
     padding: 16px;background-color: #DDD;
     text-decoration: none; width: 170px; border-radius: 8px;
     color: #000;display: flex;align-items: center;justify-content: center;"
